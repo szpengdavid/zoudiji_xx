@@ -1,0 +1,16 @@
+.\_build\gpio.o: ..\..\..\..\..\..\components\peng\gpio.c
+.\_build\gpio.o: ..\..\..\..\..\bsp\boards.h
+.\_build\gpio.o: ..\..\..\..\..\..\components\drivers_nrf\hal\nrf_gpio.h
+.\_build\gpio.o: ..\..\..\..\..\..\components\device\nrf.h
+.\_build\gpio.o: ..\..\..\..\..\..\components\device\nrf51.h
+.\_build\gpio.o: C:\Keil_v4\ARM\CMSIS\Include\core_cm0.h
+.\_build\gpio.o: C:\Keil_v4\ARM\ARMCC\include\stdint.h
+.\_build\gpio.o: C:\Keil_v4\ARM\CMSIS\Include\core_cmInstr.h
+.\_build\gpio.o: C:\Keil_v4\ARM\CMSIS\Include\core_cmFunc.h
+.\_build\gpio.o: ..\..\..\..\..\..\components\toolchain\system_nrf51.h
+.\_build\gpio.o: ..\..\..\..\..\..\components\device\nrf51_bitfields.h
+.\_build\gpio.o: ..\..\..\..\..\..\components\device\nrf51_deprecated.h
+.\_build\gpio.o: ..\..\..\..\..\..\components\device\compiler_abstraction.h
+.\_build\gpio.o: C:\Keil_v4\ARM\ARMCC\include\stdbool.h
+.\_build\gpio.o: ..\..\..\..\..\bsp\pca10028.h
+.\_build\gpio.o: ..\..\..\..\..\..\components\drivers_nrf\delay\nrf_delay.h
